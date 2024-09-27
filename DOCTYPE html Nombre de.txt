@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<!--Nombre de la persona-->
+<!--Primer,segundo y tercer plato a escoger-->
+<!--Cuanto dinero van a dar-->
+<!--Que elija entre 5 actividades( puede elegir las 5 si quiere)-->
+  <head>
+    <meta charset="UTF-8">
+    <title>Formulari boda</title>
+  </head>
+  <body>
+        <form action="/paginaEnviament" method="post>
+            <p><label for="fname">Nombre:</label></p>
+            <p><input type="text" id="lname" name="lname" value="Jaume"></p>
+            <p><label for="lname">Apellidos:</label></p>
+            <p><input type="text" id="lname" name="lname" value="Gutierrez"></p>
+
+
