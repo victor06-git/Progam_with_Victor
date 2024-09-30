@@ -67,11 +67,11 @@
             <mxPoint x="580" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYCTUoR23nMgp0SE8vzJ-21" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="256" width="40" height="30" as="geometry" />
+        <mxCell id="EYCTUoR23nMgp0SE8vzJ-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;0, n&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="256" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EYCTUoR23nMgp0SE8vzJ-22" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="40" height="30" as="geometry" />
+        <mxCell id="EYCTUoR23nMgp0SE8vzJ-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;0, 1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EYCTUoR23nMgp0SE8vzJ-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EYCTUoR23nMgp0SE8vzJ-16" target="EYCTUoR23nMgp0SE8vzJ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,7 +87,7 @@
         <mxCell id="EYCTUoR23nMgp0SE8vzJ-27" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="130" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EYCTUoR23nMgp0SE8vzJ-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;n&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYCTUoR23nMgp0SE8vzJ-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;0, n&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="710" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
