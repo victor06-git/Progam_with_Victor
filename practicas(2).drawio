@@ -67,6 +67,12 @@
         <mxCell id="tAQXnPftDMbQxo3-cld4-23" value="&lt;u&gt;codi_pis&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAQXnPftDMbQxo3-cld4-22">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tAQXnPftDMbQxo3-cld4-27" value="locals" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAQXnPftDMbQxo3-cld4-28" value="&lt;u&gt;codi_pis&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAQXnPftDMbQxo3-cld4-27">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
