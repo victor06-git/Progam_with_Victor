@@ -212,6 +212,18 @@
         <mxCell id="Jhn1tIQHhHU0NPs5Rsfx-39" value="la compra pot tenir diversos titulars." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="600" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Jhn1tIQHhHU0NPs5Rsfx-41" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;exitX=0.493;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.571;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAQXnPftDMbQxo3-cld4-23" target="tAQXnPftDMbQxo3-cld4-32">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="470" y="1250" as="sourcePoint" />
+            <mxPoint x="570" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jhn1tIQHhHU0NPs5Rsfx-42" value="ocional 1 o 0" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1290" width="110" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
