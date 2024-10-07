@@ -209,6 +209,9 @@
         <mxCell id="Jhn1tIQHhHU0NPs5Rsfx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.421;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jhn1tIQHhHU0NPs5Rsfx-30" target="tAQXnPftDMbQxo3-cld4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jhn1tIQHhHU0NPs5Rsfx-39" value="la compra pot tenir diversos titulars." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
