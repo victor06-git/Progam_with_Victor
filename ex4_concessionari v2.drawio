@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGoOR-xImjjIM7Vw1-H7-56" value="marca char(50) not null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1010" width="150" height="30" as="geometry">
+          <mxGeometry x="990" y="1010" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
