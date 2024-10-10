@@ -149,6 +149,28 @@
         <mxCell id="eBgOaKsO6VGSohHFR5Lq-7" value="Cognom2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBgOaKsO6VGSohHFR5Lq-1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eBgOaKsO6VGSohHFR5Lq-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tAQXnPftDMbQxo3-cld4-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="57" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="440" />
+              <mxPoint x="30" y="440" />
+              <mxPoint x="30" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBgOaKsO6VGSohHFR5Lq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.557;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tAQXnPftDMbQxo3-cld4-38" target="tAQXnPftDMbQxo3-cld4-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="490" as="sourcePoint" />
+            <mxPoint x="210" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258" y="410" />
+              <mxPoint x="220" y="410" />
+              <mxPoint x="220" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
