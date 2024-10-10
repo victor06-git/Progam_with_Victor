@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Pàgina-1" id="SRd085F0_NReQPcWsws4">
-    <mxGraphModel dx="1968" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,10 +231,10 @@
           <mxGeometry x="400" y="1155" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBgOaKsO6VGSohHFR5Lq-21" value="0,1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1120" width="40" height="30" as="geometry" />
+          <mxGeometry x="-170" y="980" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBgOaKsO6VGSohHFR5Lq-22" value="0,1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1150" width="40" height="30" as="geometry" />
+          <mxGeometry x="120" y="1080" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBgOaKsO6VGSohHFR5Lq-23" value="0,1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1005" width="40" height="30" as="geometry" />
