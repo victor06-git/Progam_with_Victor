@@ -22,7 +22,7 @@
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-6" value="equip_lliga" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="253" y="210" width="160" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="cfqMcSnEyNYRxQB_8YAm-7" value="&lt;u&gt;codi_equip&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-6" vertex="1">
+        <mxCell id="cfqMcSnEyNYRxQB_8YAm-7" value="&lt;u&gt;id_equip&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-6" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-8" value="nom_equip" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-6" vertex="1">
@@ -74,7 +74,7 @@
           <mxGeometry y="146" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-23" value="president_equip" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="150" y="530" width="160" height="176" as="geometry" />
+          <mxGeometry x="150" y="530" width="160" height="206" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-24" value="&lt;u&gt;dni&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-23" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-33" value="&lt;div&gt;any_triat&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-23" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-25" value="&lt;div&gt;id_equip&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cfqMcSnEyNYRxQB_8YAm-23">
+          <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-40" value="molts jugadors en un equip" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="273" width="120" height="40" as="geometry" />
