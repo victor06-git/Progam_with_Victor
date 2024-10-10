@@ -61,7 +61,7 @@
         <mxCell id="K7ZgRjItraJ9BAsRBDeH-1" value="&lt;u&gt;id_partit&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cfqMcSnEyNYRxQB_8YAm-18">
           <mxGeometry y="26" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cfqMcSnEyNYRxQB_8YAm-19" value="&lt;u&gt;minut_gol&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
+        <mxCell id="cfqMcSnEyNYRxQB_8YAm-19" value="minut_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
           <mxGeometry y="56" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-20" value="descripcio_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
