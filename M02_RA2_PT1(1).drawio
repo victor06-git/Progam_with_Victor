@@ -56,7 +56,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-18" value="gol_partit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="250" y="52" width="180" height="146" as="geometry" />
+          <mxGeometry x="253" y="22" width="180" height="176" as="geometry" />
         </mxCell>
         <mxCell id="K7ZgRjItraJ9BAsRBDeH-1" value="&lt;u&gt;id_partit&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cfqMcSnEyNYRxQB_8YAm-18">
           <mxGeometry y="26" width="180" height="30" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="PyK2KTt20wwOfGCghMNB-15" value="num_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
           <mxGeometry y="116" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-2" value="jugador_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cfqMcSnEyNYRxQB_8YAm-18">
+          <mxGeometry y="146" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-23" value="president_lliga" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="150" y="530" width="160" height="176" as="geometry" />
