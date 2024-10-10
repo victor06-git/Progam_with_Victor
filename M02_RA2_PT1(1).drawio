@@ -232,6 +232,15 @@
         <mxCell id="K7ZgRjItraJ9BAsRBDeH-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
           <mxGeometry x="25" y="180" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.266;exitY=1.108;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.555;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cfqMcSnEyNYRxQB_8YAm-4" target="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-36" value="Diferents posicions per a un jugador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="293" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
