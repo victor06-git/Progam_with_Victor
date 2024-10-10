@@ -121,12 +121,6 @@
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-44" value="un equip, un president" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1.013;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="cfqMcSnEyNYRxQB_8YAm-5" target="cfqMcSnEyNYRxQB_8YAm-18" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="140" y="200" as="sourcePoint" />
-            <mxPoint x="460" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PyK2KTt20wwOfGCghMNB-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cfqMcSnEyNYRxQB_8YAm-7" target="cfqMcSnEyNYRxQB_8YAm-11" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="360" y="460" as="sourcePoint" />
@@ -173,6 +167,16 @@
         </mxCell>
         <mxCell id="PyK2KTt20wwOfGCghMNB-14" value="de 0 a molts gols 1 jugador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cfqMcSnEyNYRxQB_8YAm-2" target="cfqMcSnEyNYRxQB_8YAm-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="161" />
+              <mxPoint x="150" y="77" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
