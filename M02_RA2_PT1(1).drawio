@@ -163,7 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PyK2KTt20wwOfGCghMNB-11" value="1 partit de 0 a molts gols" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="50" width="120" height="50" as="geometry" />
+          <mxGeometry x="450" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PyK2KTt20wwOfGCghMNB-12" value="de 0 a molts gols en 1 partit" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="130" width="120" height="50" as="geometry" />
