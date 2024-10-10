@@ -214,6 +214,24 @@
         <mxCell id="K7ZgRjItraJ9BAsRBDeH-26" value="el president pertany a una id d&#39;equip concret" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-28" value="&amp;lt;&amp;lt;Enumeration&amp;gt;&amp;gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="343" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-30" value="&lt;u&gt;posicio&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry x="20" y="36" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-31" value="porter" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry x="20" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-32" value="defensa" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry x="20" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-33" value="migcampista" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry x="25" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7ZgRjItraJ9BAsRBDeH-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K7ZgRjItraJ9BAsRBDeH-28">
+          <mxGeometry x="25" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
