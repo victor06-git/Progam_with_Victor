@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Pàgina-1" id="MAjly87fxIGBJ7gbjYAO">
-    <mxGraphModel dx="2435" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-11" value="partit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="610" y="167" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="cfqMcSnEyNYRxQB_8YAm-12" value="&lt;u&gt;codi_patit&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-11" vertex="1">
+        <mxCell id="cfqMcSnEyNYRxQB_8YAm-12" value="&lt;u&gt;codi_partit&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-11" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-13" value="data_partit" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-11" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-20" value="descripcio_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
           <mxGeometry y="56" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-15" value="num_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cfqMcSnEyNYRxQB_8YAm-18">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-15" value="num_gol" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cfqMcSnEyNYRxQB_8YAm-18" vertex="1">
           <mxGeometry y="86" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-23" value="president_lliga" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
@@ -115,38 +115,38 @@
         <mxCell id="cfqMcSnEyNYRxQB_8YAm-44" value="un equip, un president" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="396" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1.013;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cfqMcSnEyNYRxQB_8YAm-5" target="cfqMcSnEyNYRxQB_8YAm-18">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1.013;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="cfqMcSnEyNYRxQB_8YAm-5" target="cfqMcSnEyNYRxQB_8YAm-18" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="140" y="200" as="sourcePoint" />
             <mxPoint x="460" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cfqMcSnEyNYRxQB_8YAm-7" target="cfqMcSnEyNYRxQB_8YAm-11">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cfqMcSnEyNYRxQB_8YAm-7" target="cfqMcSnEyNYRxQB_8YAm-11" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="360" y="460" as="sourcePoint" />
             <mxPoint x="460" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-3" value="visitant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PyK2KTt20wwOfGCghMNB-2">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-3" value="visitant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PyK2KTt20wwOfGCghMNB-2" vertex="1" connectable="0">
           <mxGeometry x="0.0511" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0.013;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cfqMcSnEyNYRxQB_8YAm-8" target="cfqMcSnEyNYRxQB_8YAm-15">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0.013;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cfqMcSnEyNYRxQB_8YAm-8" target="cfqMcSnEyNYRxQB_8YAm-15" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="437" y="319" as="sourcePoint" />
             <mxPoint x="610" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-7" value="local" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PyK2KTt20wwOfGCghMNB-4">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-7" value="local" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PyK2KTt20wwOfGCghMNB-4" vertex="1" connectable="0">
           <mxGeometry x="0.0689" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-9" value="1 equip ( local / visitant)&amp;nbsp; juga molts partits" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-9" value="1 equip ( local / visitant)&amp;nbsp; juga molts partits" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="223" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="cfqMcSnEyNYRxQB_8YAm-18">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="cfqMcSnEyNYRxQB_8YAm-18" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="770" y="240" as="sourcePoint" />
             <mxPoint x="270" y="89" as="targetPoint" />
@@ -156,16 +156,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-11" value="1 partit de 0 a molts gols" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-11" value="1 partit de 0 a molts gols" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-12" value="de 0 a molts gols en 1 partit" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-12" value="de 0 a molts gols en 1 partit" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-13" value="1 jugador de 0 a molts gols" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-13" value="1 jugador de 0 a molts gols" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PyK2KTt20wwOfGCghMNB-14" value="de 0 a molts gols 1 jugador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PyK2KTt20wwOfGCghMNB-14" value="de 0 a molts gols 1 jugador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
