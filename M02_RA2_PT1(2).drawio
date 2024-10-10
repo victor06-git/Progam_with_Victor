@@ -281,6 +281,9 @@
         <mxCell id="eBgOaKsO6VGSohHFR5Lq-42" value="un agent/treballador&lt;div&gt;pot llogar de 0 a molts immobles&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="eBgOaKsO6VGSohHFR5Lq-43" value="una persona pot ser treballador o client" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="115" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
