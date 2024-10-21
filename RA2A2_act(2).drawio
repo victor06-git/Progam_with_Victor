@@ -33,7 +33,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jjTZ7lmYs6m6kL0ROFsM-18" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="jjTZ7lmYs6m6kL0ROFsM-18" value="order" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-38" y="146" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jjTZ7lmYs6m6kL0ROFsM-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="jjTZ7lmYs6m6kL0ROFsM-18" vertex="1">
@@ -111,8 +111,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9xb7JrAlKW2_wN2xTlw5-14" value="Invention" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="316" width="180" height="90" as="geometry" />
+        <mxCell id="9xb7JrAlKW2_wN2xTlw5-14" value="part" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="385" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9xb7JrAlKW2_wN2xTlw5-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="9xb7JrAlKW2_wN2xTlw5-14">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
